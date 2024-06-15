@@ -1,5 +1,5 @@
 # FIT2099 Assignment (Semester 1, 2023)
-# Elden Ring
+# Elden Ring Game
 
 ## XX_Lab01Team02
 Team members:
